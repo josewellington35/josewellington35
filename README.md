@@ -1,5 +1,3 @@
-
-
 ### Olá ! sou o José wellington 🚀
 
 [![Site](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white)](https://josewellington35.github.io/)
